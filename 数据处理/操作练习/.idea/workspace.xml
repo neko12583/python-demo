@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be50726b-5928-4023-865a-5ed4e9768357" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJRPD2REkXpDEO5iAisjKoWT68" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../材料" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="findFlie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="正则表达式与文件操作练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findFlie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inset_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="正则表达式与文件操作练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inset_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_pricture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="正则表达式与文件操作练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_pricture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="正则表达式与文件操作练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="正则表达式与文件操作练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../材料/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../材料/test/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.save_pricture" />
+        <item itemvalue="Python.inset_dict" />
+        <item itemvalue="Python.findFlie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be50726b-5928-4023-865a-5ed4e9768357" name="Default Changelist" comment="" />
+      <created>1594037686082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594037686082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="234" key="FileChooserDialogImpl" timestamp="1594383610258">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state x="716" y="234" key="FileChooserDialogImpl/67.27.1851.900@67.27.1851.900" timestamp="1594383610258" />
+    <state width="1824" height="224" key="GridCell.Tab.0.bottom" timestamp="1594268864839">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="224" key="GridCell.Tab.0.bottom/67.27.1851.900@67.27.1851.900" timestamp="1594268864839" />
+    <state width="1824" height="224" key="GridCell.Tab.0.center" timestamp="1594268864836">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="224" key="GridCell.Tab.0.center/67.27.1851.900@67.27.1851.900" timestamp="1594268864836" />
+    <state width="1824" height="224" key="GridCell.Tab.0.left" timestamp="1594268864834">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="224" key="GridCell.Tab.0.left/67.27.1851.900@67.27.1851.900" timestamp="1594268864834" />
+    <state width="1824" height="224" key="GridCell.Tab.0.right" timestamp="1594268864836">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="224" key="GridCell.Tab.0.right/67.27.1851.900@67.27.1851.900" timestamp="1594268864836" />
+    <state width="1824" height="278" key="GridCell.Tab.1.bottom" timestamp="1594259354112">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="278" key="GridCell.Tab.1.bottom/67.27.1851.900@67.27.1851.900" timestamp="1594259354112" />
+    <state width="1824" height="278" key="GridCell.Tab.1.center" timestamp="1594259354111">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="278" key="GridCell.Tab.1.center/67.27.1851.900@67.27.1851.900" timestamp="1594259354111" />
+    <state width="1824" height="278" key="GridCell.Tab.1.left" timestamp="1594259354111">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="278" key="GridCell.Tab.1.left/67.27.1851.900@67.27.1851.900" timestamp="1594259354111" />
+    <state width="1824" height="278" key="GridCell.Tab.1.right" timestamp="1594259354112">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state width="1824" height="278" key="GridCell.Tab.1.right/67.27.1851.900@67.27.1851.900" timestamp="1594259354112" />
+    <state x="504" y="111" key="SettingsEditor" timestamp="1594265118573">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state x="504" y="111" key="SettingsEditor/67.27.1851.900@67.27.1851.900" timestamp="1594265118573" />
+    <state x="167" y="27" width="1640" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594259295061">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state x="167" y="27" width="1640" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1851.900@67.27.1851.900" timestamp="1594259295061" />
+    <state x="605" y="219" width="773" height="678" key="search.everywhere.popup" timestamp="1594259606785">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state x="605" y="219" width="773" height="678" key="search.everywhere.popup/67.27.1851.900@67.27.1851.900" timestamp="1594259606785" />
+  </component>
+</project>
